@@ -1,0 +1,12 @@
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\bin\Debug\net5.0\Cervejaria.Domain.deps.json
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\bin\Debug\net5.0\Cervejaria.Domain.dll
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\bin\Debug\net5.0\Cervejaria.Domain.pdb
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.csproj.AssemblyReference.cache
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.AssemblyInfoInputs.cache
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.AssemblyInfo.cs
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.csproj.CoreCompileInputs.cache
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.dll
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\refint\Cervejaria.Domain.dll
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\Cervejaria.Domain.pdb
+C:\TropTech\ProjetoFinal\server\CervejariaSolution\Cervejaria.Domain\obj\Debug\net5.0\ref\Cervejaria.Domain.dll
